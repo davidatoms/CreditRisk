@@ -1,0 +1,2 @@
+# CreditRisk
+Columbia Data Analytics Boot Camp - Module 17 - Supervised Machine Learning and Credit Risk - In this module, I used Python to build and evaluate several machine learning models to predict credit risk. Being able to predict credit risk with machine learning helps banks and financial institutions predict anomalies, reduce risk cases, monitor portfolios, and provide recommendations on what to do in cases of fraud.
